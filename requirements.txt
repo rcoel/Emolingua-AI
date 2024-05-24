@@ -1,0 +1,8 @@
+boto3
+numpy
+protobuf
+python-dotenv
+Requests
+sagemaker
+streamlit
+streamlit_option_menu
